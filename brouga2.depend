@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735534261 source:c:\users\olivr\onedrive\documentos\broua\brouga2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
