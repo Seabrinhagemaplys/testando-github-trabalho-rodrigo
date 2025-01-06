@@ -134,6 +134,7 @@ int main()
         }
         printf("\n");
         printf("alterado com sucesso!");
+        printf("Alterado no VS CODE!");
     }
 
 
