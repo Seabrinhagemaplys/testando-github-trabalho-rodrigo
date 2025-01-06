@@ -133,6 +133,7 @@ int main()
             printf("|%*d|",4, matriz[i][j]);
         }
         printf("\n");
+        printf("alterado com sucesso");
     }
 
 
